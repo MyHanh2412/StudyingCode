@@ -1,0 +1,42 @@
+.index {
+    background-color:rgba(96, 178, 233, 0.747);
+}
+
+.Portfolio {
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    color: rgba(211, 48, 211, 0.747);
+    display: inline-block;
+}
+
+h2 {
+    width: 250px;
+    border: 7px solid green;
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+  }
+ul li {
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(103, 168, 6);
+    text-align: center;
+}
+
+.project {
+    display: inline-block;
+    height: 150px;
+    width: 33.1%;
+background-color: rgb(185, 240, 76);
+color: white;
+border-bottom: 12px solid rgb(41, 240, 101);
+}

@@ -1,8 +1,10 @@
 
 function changeColor() {
-    document.getElementById('changeColor').style.color = 'red';
-    document.getElementById('x').style.color = 'green';
+document.getElementById('changeColor').style.color = 'red';
+document.getElementById('x').style.color = 'green';
 }
+
+
 
 var thisIsVar = 'a';
 var thisIsArray = ['1', '2', '3'];
@@ -18,6 +20,12 @@ function pushArray() {
     document.getElementById('name').innerHTML = thisIsArray;
     thisIsArray.push('noname');
 }
+
+
+  
+ 
+
+
 
  var finalArray=['x','y','z'];
 function pushArray2() {

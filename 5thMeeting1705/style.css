@@ -1,0 +1,39 @@
+.project{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    color: rgba(255, 0, 255, 0.747);
+    display: inline-block;
+
+}
+h1{
+    text-align: center;
+}
+
+.about{
+    background-color: rgb(50, 205, 97);
+    height: 100px;
+    width: 100px;
+    color: rgb(207, 123, 13);
+    display: inline-block;
+}
+ul{
+    width: 80%;
+    margin: auto; 
+}
+ul li {
+    display: inline-block; 
+      
+}
+
+.test{
+    width: 100px;
+    height:100px;
+    background-color: blueviolet;
+
+    /*margin
+    */
+    margin: 1px;
+    padding: 10px;
+    display: inline-block;
+}

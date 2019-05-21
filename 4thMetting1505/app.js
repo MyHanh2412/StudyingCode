@@ -3,7 +3,7 @@ function showArray() {
    
     document.getElementById('name').innerHTML = newArray;
     var result = document.getElementById('pushArray').value;
-    newArray.push(result);
+  newArray.push(result);
     
   
     console.log(result);
